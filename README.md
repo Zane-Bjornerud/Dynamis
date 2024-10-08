@@ -1,1 +1,1 @@
-* Dynamis - Clothing Brand
+# Dynamis - Clothing Brand
